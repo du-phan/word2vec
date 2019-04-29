@@ -1,3 +1,5 @@
+# DEV VERSION
+
 # Installation
 
 You generally don't need any manual installation. The plugin can install the required packages automatically
